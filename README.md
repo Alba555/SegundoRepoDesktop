@@ -1,0 +1,2 @@
+# SegundoRepoDesktop
+ejercicio GitHub clase
